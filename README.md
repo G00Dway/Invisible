@@ -8,9 +8,11 @@ And plase make sure you have ROOT Permissions!
 # Termux 
 `git clone https://github.com/invisible3444/Invisible`
 `cd Invisible`
+`pip install -r requirements.txt`
 `sudo python wifi.py`
 # kali
 `git clone https://github.com/invisible3444/Invisible`
 `cd Invisible`
+`pip install -r requirements.txt`
 `sudo python wifi.py`
 Am Not Responsible For Anything You Did With this Tool!!

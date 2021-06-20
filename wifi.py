@@ -55,8 +55,8 @@ print(r"""╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝╚═�
 print(r"""                                                            """)
 print("\n****************************************************************")
 print("\n* Copyright of Invisible3444 & David Bombai, 2021                              *")
-print("\n* https://github.com/invisible3444                           *")
-print("\n* Credits | Invisible3444 & David Bombai                         *")
+print("\n* https://github.com/G00Dway                           *")
+print("\n* Credits | G00Dway & David Bombai                         *")
 print("\n****************************************************************")
 
 

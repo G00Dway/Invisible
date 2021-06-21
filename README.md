@@ -15,7 +15,7 @@ And please make sure you have ROOT Permissions!
 
 `sudo python wifi.py`
 # Other Linux Distros
-`git clone https://github.com/invisible3444/Invisible`
+`git clone https://github.com/G00Dway/Invisible`
 
 `cd Invisible`
 

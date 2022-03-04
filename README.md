@@ -1,24 +1,17 @@
 # Invisible
-This is wifi packet Sender (DEAuth)
-With This tool you can send packets to wifi and Disable The connected Clients In The Wifi
+Invisible, wifi (DEAuth) tool made for pentesers and ethical hackers
 # Requirements
-Please make Sure You have a Interface!
-And please make sure you have ROOT Permissions!
-# Termux 
+- [X] Working wifi interface
+- [X] Root permissions
+# Installation:
 `git clone https://github.com/G00Dway/Invisible`
-
+>
 `cd Invisible`
-
+>
 `pip install -r requirements.txt`
-
-`sudo python wifi.py`
-# Other Linux Distros
-`git clone https://github.com/G00Dway/Invisible`
-
-`cd Invisible`
-
-`pip install -r requirements.txt`
-
-`sudo python wifi.py`
-# WARNING
-Am Not Responsible For Anything You Did With this Tool!!
+>
+`python wifi.py`
+# !!! Disclaimer !!!
+Am Not Responsible For Your actions with this tool! Please use it at your OWN risk!
+# Bugs, Errors:
+- Report bug or error here: <a href="https://github.com/G00Dway/Invisible/issues">Issues Page</a>

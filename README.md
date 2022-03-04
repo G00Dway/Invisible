@@ -14,4 +14,4 @@ Invisible, wifi (DEAuth) tool made for pentesers and ethical hackers
 # !!! Disclaimer !!!
 Am Not Responsible For Your actions with this tool! Please use it at your OWN risk!
 # Bugs, Errors:
-- Report bug or error here: <a href="https://github.com/G00Dway/Invisible/issues">Issues Page</a>
+- Report bugs or errors here: <a href="https://github.com/G00Dway/Invisible/issues">Issues Page</a>
